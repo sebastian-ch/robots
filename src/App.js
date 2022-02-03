@@ -13,7 +13,6 @@ function App() {
       <Item img={logo2} />
     </div>
 
-
   );
 }
 
